@@ -1,0 +1,9 @@
+.body {
+  background-image: url("../assets/backgorund.jpg");
+  background-size: cover;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+}

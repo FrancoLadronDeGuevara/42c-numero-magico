@@ -1,0 +1,14 @@
+.body {
+  background-image: url("./assets/backgorund.jpg");
+  background-size: cover;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container > h1 {
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
